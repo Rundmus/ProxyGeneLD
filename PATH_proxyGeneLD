@@ -1,0 +1,4 @@
+#The file of 'refGeneIDnSym' produced by 'preprocess1_GeneIDnSym.pl'
+./preprocessed_data/refGeneIDnSym_UCSC.txt
+#Path to the files for HapMap LD created by 'preprocess2_LDfiles.pl'
+./preprocessed_data/hapmapCEU
